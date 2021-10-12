@@ -1,2 +1,2 @@
 # TestGit
-Текст от Андрея
+My text (c) Anya
